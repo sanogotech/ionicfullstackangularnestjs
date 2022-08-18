@@ -1,5 +1,5 @@
 # ionicfullstackangularnestjs
-Ionic Full Stack  Angular  Nestjs.
+Ionic Full Stack  Angular  Nestjs
 
 
 ## Code Source Fork
@@ -16,6 +16,8 @@ Ionic Full Stack  Angular  Nestjs.
 ## Install
 
 ```
+npm install -g cordova ionic
+or
 npm install -g @ionic/cli
 ```
 
@@ -26,6 +28,8 @@ npm install -g @ionic/cli
 ```
 ionic start myapp sidemenu
 cd myapp
+ionic lab
+or
 ionic  serve
 ```
 
