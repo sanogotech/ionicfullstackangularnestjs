@@ -16,8 +16,7 @@ Ionic Full Stack  Angular  Nestjs
 ## Install
 
 ```
-npm install -g cordova ionic
-or
+npm install -g cordova
 npm install -g @ionic/cli
 ```
 
