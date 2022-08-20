@@ -16,8 +16,7 @@ Ionic Full Stack  Angular  Nestjs
 ## Install
 
 ```
-npm install -g cordova ionic
-or
+npm install -g cordova
 npm install -g @ionic/cli
 ```
 
@@ -63,6 +62,7 @@ android update sdk --no-ui
 ```
 
 ```
+ionic integrations enable capacitor
 ionic capacitor add android
 ionic capacitor sync
 cd android && ./gradlew assembleDebug && cd ..
