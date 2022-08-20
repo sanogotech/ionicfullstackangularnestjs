@@ -1,5 +1,7 @@
 {
   "name": "gsr-client",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
